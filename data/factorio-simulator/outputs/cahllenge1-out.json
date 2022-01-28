@@ -1,0 +1,17 @@
+[
+  {
+    "factory-id": 0,
+    "recipe": "coal",
+    "timestamp": 0,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 60,
+    "type": "stop-factory-event"
+  },
+  {
+    "timestamp": 60,
+    "type": "victory-event"
+  }
+]

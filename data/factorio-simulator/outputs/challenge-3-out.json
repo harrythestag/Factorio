@@ -1,0 +1,101 @@
+[
+  {
+    "factory-id": 1,
+    "factory-name": "stone-furnace",
+    "factory-type": "stone-furnace",
+    "timestamp": 0,
+    "type": "build-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "coal",
+    "timestamp": 0,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 900,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "iron-ore",
+    "timestamp": 900,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 13500,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "recipe": "iron-plate-burner",
+    "timestamp": 13500,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "timestamp": 16380,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "iron-gear-wheel",
+    "timestamp": 16380,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 19380,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "coal",
+    "timestamp": 19380,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 19860,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "copper-ore",
+    "timestamp": 19860,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 26580,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "recipe": "copper-plate-burner",
+    "timestamp": 26580,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "timestamp": 28116,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "automation-science-pack",
+    "timestamp": 28116,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 58116,
+    "type": "stop-factory-event"
+  },
+  {
+    "timestamp": 58116,
+    "type": "victory-event"
+  }
+]

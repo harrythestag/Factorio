@@ -1,0 +1,326 @@
+[
+  {
+    "factory-id": 1,
+    "factory-name": "stone-furnace",
+    "factory-type": "stone-furnace",
+    "timestamp": 0,
+    "type": "build-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "coal",
+    "timestamp": 0,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 180,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "iron-ore",
+    "timestamp": 180,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 2700,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "recipe": "iron-plate-burner",
+    "timestamp": 2700,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "timestamp": 3276,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "iron-gear-wheel",
+    "timestamp": 3276,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 3876,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "coal",
+    "timestamp": 3876,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 3996,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "copper-ore",
+    "timestamp": 3996,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 5676,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "recipe": "copper-plate-burner",
+    "timestamp": 5676,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "timestamp": 6060,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "automation-science-pack",
+    "timestamp": 6060,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 12060,
+    "type": "stop-factory-event"
+  },
+  {
+    "technology": "logistics",
+    "timestamp": 12061,
+    "type": "research-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "coal",
+    "timestamp": 12062,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 13802,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "iron-ore",
+    "timestamp": 13802,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 38162,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "recipe": "iron-plate-burner",
+    "timestamp": 38162,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "timestamp": 43730,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "iron-gear-wheel",
+    "timestamp": 43730,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 49730,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "coal",
+    "timestamp": 49730,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 50630,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "iron-ore",
+    "timestamp": 50630,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 63230,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "recipe": "iron-plate-burner",
+    "timestamp": 63230,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "timestamp": 66110,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "transport-belt",
+    "timestamp": 66110,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 72110,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "coal",
+    "timestamp": 72110,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 75350,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "copper-ore",
+    "timestamp": 75350,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 120710,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "recipe": "copper-plate-burner",
+    "timestamp": 120710,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "timestamp": 131078,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "copper-cable",
+    "timestamp": 131078,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 153578,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "coal",
+    "timestamp": 153578,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 155738,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "iron-ore",
+    "timestamp": 155738,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 185978,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "recipe": "iron-plate-burner",
+    "timestamp": 185978,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "timestamp": 192890,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "electronic-circuit",
+    "timestamp": 192890,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 207890,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "coal",
+    "timestamp": 207890,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 210050,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "iron-ore",
+    "timestamp": 210050,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 240290,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "recipe": "iron-plate-burner",
+    "timestamp": 240290,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "timestamp": 247202,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "splitter",
+    "timestamp": 247202,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 253202,
+    "type": "stop-factory-event"
+  },
+  {
+    "timestamp": 253202,
+    "type": "victory-event"
+  }
+]

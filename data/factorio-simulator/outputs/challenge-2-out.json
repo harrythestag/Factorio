@@ -1,0 +1,46 @@
+[
+  {
+    "factory-id": 1,
+    "factory-name": "stone-furnace",
+    "factory-type": "stone-furnace",
+    "timestamp": 0,
+    "type": "build-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "coal",
+    "timestamp": 0,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 480,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "recipe": "iron-ore",
+    "timestamp": 480,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 0,
+    "timestamp": 7200,
+    "type": "stop-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "recipe": "iron-plate-burner",
+    "timestamp": 7200,
+    "type": "start-factory-event"
+  },
+  {
+    "factory-id": 1,
+    "timestamp": 8736,
+    "type": "stop-factory-event"
+  },
+  {
+    "timestamp": 8736,
+    "type": "victory-event"
+  }
+]
